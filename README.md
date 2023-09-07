@@ -8,4 +8,4 @@ Infinity Nexus Official
 
 ### Discord Link
 
-+ [![](https://dcbadge.vercel.app/api/server/QKfaCjPdzc)](https://discord.gg/QKfaCjPdzc) 
++ [![Infinity Nexus](https://dcbadge.vercel.app/api/server/QKfaCjPdzc) Infinity Nexus](https://discord.gg/QKfaCjPdzc) 

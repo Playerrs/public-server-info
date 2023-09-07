@@ -1,1 +1,1 @@
-+ [![Infinity Nexus Official](http://cf.way2muchnoise.eu/242462.svg "I Nexus") Infinity Nexus Official](https://legacy.curseforge.com/minecraft/modpacks/infinity-nexus-official)
++ [![Infinity Nexus Official](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-official)

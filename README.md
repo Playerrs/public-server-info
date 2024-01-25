@@ -3,7 +3,7 @@ Infinity Nexus Official
 
 ### Modpack Link
 
-+ [![ Infinity Nexus Official ](https://cf.way2muchnoise.eu/full_907090_Downloads.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-unnamed) [![ Infinity Nexus Unnamed ](https://cf.way2muchnoise.eu/versions/Version_907090_all.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-unnamed)
++ [![ Infinity Nexus Unnamed ](https://cf.way2muchnoise.eu/full_960564_Downloads.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-unnamed) [![ Infinity Nexus Unnamed ](https://cf.way2muchnoise.eu/versions/Version_960564_all.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-unnamed)
 
 -----
 

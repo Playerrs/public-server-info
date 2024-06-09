@@ -3,7 +3,7 @@ Infinity Nexus Official
 
 ### Modpack Link
 
-+ [![ Infinity Nexus Reborn ](https://cf.way2muchnoise.eu/full_960564_Downloads.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-reborn) [![ Infinity Nexus Reborn ](https://cf.way2muchnoise.eu/versions/Version_960564_all.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-reborn)
++ [![ Infinity Nexus Reborn ](https://cf.way2muchnoise.eu/full_1006904_Downloads.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-reborn) [![ Infinity Nexus Reborn ](https://cf.way2muchnoise.eu/versions/Version_1006904_all.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-reborn)
 
 -----
 

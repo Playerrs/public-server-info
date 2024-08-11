@@ -209,7 +209,6 @@ Infinity Nexus Official
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/draconic-evolution">Draconic Evolution (by brandon3055)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/just-zoom">Just Zoom (by Keksuccino)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/artifacts">Artifacts (by ochotonida)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/inventory-sorter">Inventory Sorter (by cpw)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/citadel">Citadel (by sbom_xela)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/gobber">Gobber [NEOFORGE/FORGE] (by kwpugh)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/jei">Just Enough Items (JEI) (by mezz)</a></li>

@@ -1,4 +1,4 @@
-Infinity Nexus Official
+Infinity Nexus Sky
 ======
 
 ### Modpack Link

@@ -3,7 +3,7 @@ Infinity Nexus Revolution
 
 ### Modpack Link
 
-+ [![ Infinity Nexus Revolution ](https://cf.way2muchnoise.eu/full_1006904_Downloads.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-revolution) [![ Infinity Nexus Sky ](https://cf.way2muchnoise.eu/versions/Version_1006904_all.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-revolution)
++ [![ Infinity Nexus Revolution ](https://cf.way2muchnoise.eu/full_1139176_Downloads.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-revolution) [![ Infinity Nexus Sky ](https://cf.way2muchnoise.eu/versions/Version_1139176_all.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-revolution)
 
 -----
 

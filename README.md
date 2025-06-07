@@ -3,7 +3,7 @@ Infinity Nexus Odyssey
 
 ### Modpack Link
 
-+ [![ Infinity Nexus Odyssey ](https://cf.way2muchnoise.eu/full_1139176_Downloads.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-odyssey-server) [![ Infinity Nexus Odyssey ](https://cf.way2muchnoise.eu/versions/Version_1139176_all.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-odyssey-server)
++ [![ Infinity Nexus Odyssey ](https://cf.way2muchnoise.eu/full_1275600_Downloads.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-odyssey-server) [![ Infinity Nexus Odyssey ](https://cf.way2muchnoise.eu/versions/Version_1275600_all.svg "Clique para ser redirecionado")](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-odyssey-server)
 
 -----
 

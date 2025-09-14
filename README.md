@@ -9,7 +9,7 @@ Infinity Nexus Awakening
 
 ### Discord Link
 
-+ [![ Infinity Nexus ](https://dcbadge.vercel.app/api/server/QKfaCjPdzc "Clique para entrar")](https://discord.gg/QKfaCjPdzc) 
++ [![ Infinity Nexus ](https://dcbadge.vercel.app/api/server/3gDrregs5n "Clique para entrar")](https://discord.gg/3gDrregs5n) 
 
 
 

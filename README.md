@@ -1,9 +1,9 @@
-Infinity Nexus Awakening
+Infinity Nexus Sky
 ======
 
 ### Modpack Link
 
-+ [![ Infinity Nexus Awakening ](https://cf.way2muchnoise.eu/full_1341809_Downloads.svg "Clique para ser redirecionado")]([https://www.curseforge.com/minecraft/modpacks/infinity-nexus-odyssey-server](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-awakening-server)) [![ Infinity Nexus Awakening ](https://cf.way2muchnoise.eu/versions/Version_1341809_all.svg "Clique para ser redirecionado")]([https://www.curseforge.com/minecraft/modpacks/infinity-nexus-odyssey-server](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-awakening-server))
++ [![ Infinity Nexus Sky 2 ](https://cf.way2muchnoise.eu/full_1341809_Downloads.svg "Clique para ser redirecionado")]([https://www.curseforge.com/minecraft/modpacks/infinity-nexus-sky](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-sky)) [![ Infinity Nexus Awakening ](https://cf.way2muchnoise.eu/versions/Version_1341809_all.svg "Clique para ser redirecionado")]([https://www.curseforge.com/minecraft/modpacks/infinity-nexus-sky](https://www.curseforge.com/minecraft/modpacks/infinity-nexus-sky))
 
 -----
 
